@@ -1,2 +1,2 @@
 # FunFacts
-A simple Android app the shows fun facts
+A simple Android app that shows fun facts
